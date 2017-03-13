@@ -9,13 +9,7 @@ package syspet_2_0;
  *
  * @author Bad Block
  */
-public class SysPet_2_0 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public class Teste {
+    String nome;
+    int id;
 }
